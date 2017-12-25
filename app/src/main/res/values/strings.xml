@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">SearchViewExpandableListView</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_label">Search</string>
+    <string name="search_hint">Search Me</string>
+    <string name="search">Search</string>
+
+
+    <string name="Ukraine">Ukraine</string>
+    <string name="Italy">Italy</string>
+    <string name="France">France</string>
+    <string name="Germany">Germany</string>
+    <string name="Poland">Poland</string>
+    <string name="Singapore">Singapore</string>
+    <string name="Japan">Japan</string>
+    <string name="Canada">Canada</string>
+    <string name="China">China</string>
+    <string name="UnitedStates">United States</string>
+    <string name="Mexico">Mexico</string>
+
+    <!--<string-array name="myArray">-->
+        <!--<item>Ukraine</item>-->
+        <!--<item>Italy</item>-->
+        <!--<item>France</item>-->
+        <!--<item>Germany</item>-->
+        <!--<item>Poland</item>-->
+        <!--<item>Singapore</item>-->
+        <!--<item>Japan</item>-->
+        <!--<item>Canada</item>-->
+        <!--<item>China</item>-->
+        <!--<item>United States</item>-->
+        <!--<item>Mexico</item>-->
+
+    <!--</string-array>-->
+</resources>
