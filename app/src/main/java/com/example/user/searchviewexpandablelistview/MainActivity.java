@@ -24,7 +24,7 @@ public class MainActivity extends AppCompatActivity
     private android.widget.SearchView searchView;
     private MyExpandableListAdapter listAdapter;
     private ExpandableListView myList;
-    private ArrayList<ParentRow> parentList = new ArrayList<ParentRow>();
+    private ArrayList<ParentRow> parentList;
 //    String countries [] = getResources().getStringArray(R.array.myArray);
 
     private MenuItem searchItem;
